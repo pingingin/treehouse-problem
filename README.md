@@ -1,1 +1,4 @@
-# treehouse-problem
+## treehouse-problem
+
+- เปิด terminal พิมพ์ คำสั่ง
+  ``` python treehouse.py data.txt ```
